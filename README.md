@@ -1,0 +1,1 @@
+This is Eddie's first git project jiji !
